@@ -6,10 +6,24 @@
 
 Abaixo, você encontrará:
 - Um breve relato de como a montagem foi feita
-- - Um breve relato de como a programação foi feita
+- Um breve relato de como a programação foi feita
 - Tabela com especificações dos componentes utilizados
 - Link para o vídeo demonstrando o funcionamento do semáforo
 - Resultados dos testes realizados, com os nomes completos dos avaliadores
+
+## Especificações dos Componentes Utilizados
+
+| Componente      | Especificação                       | Quantidade |
+|-----------------|------------------------------------|------------|
+| Protoboard      | 830 pontos                         | 1          |
+| LED Vermelho    | 5mm, 2V, 20mA                      | 1          |
+| LED Amarelo     | 5mm, 2V, 20mA                      | 1          |
+| LED Verde       | 5mm, 2V, 20mA                      | 1          |
+| Resistores      | 1000Ω (Nesse caso utilizei o de 1000Ω pela quantidade presente no kit que recebemos)                               | 3          |
+| Placa de desenvolvimento (Autoestudo diz que esse é o nome)| Arduino Uno                        | 1          |
+| Fios Jumper     | macho-masculino     | 3        |
+| Fios Jumper     | macho-fêmea     | 6        |
+
 
 ## Montagem e Conexões
 A montagem foi realizada em uma protoboard, onde cada LED foi conectado a um resistor para limitar a corrente e não queimar os LEDs. As conexões dos LEDs (vermelho, amarelo e verde) representam as fases de um semáforo e foram feitas conforme o seguinte:
@@ -29,21 +43,6 @@ Este projeto é semelhante ao que já realizamos anteriormente, especialmente no
 
 ## Código da programação do semáforo
 Você pode encontrar o código da programação do semáforo neste mesmo repositório, no arquivo nomeado como 'farol.ino'.  
-
-
-## Especificações dos Componentes Utilizados
-
-| Componente      | Especificação                       | Quantidade |
-|-----------------|------------------------------------|------------|
-| Protoboard      | 830 pontos                         | 1          |
-| LED Vermelho    | 5mm, 2V, 20mA                      | 1          |
-| LED Amarelo     | 5mm, 2V, 20mA                      | 1          |
-| LED Verde       | 5mm, 2V, 20mA                      | 1          |
-| Resistores      | 220Ω                               | 3          |
-| Placa de desenvolvimento (Autoestudo diz que esse é o nome)| Arduino Uno                        | 1          |
-| Fios Jumper     | macho-masculino     | 3        |
-| Fios Jumper     | macho-fêmea     | 6        |
-
 
 
 ## Demonstração
