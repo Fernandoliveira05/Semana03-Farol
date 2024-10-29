@@ -5,7 +5,8 @@
 &nbsp;&nbsp;Este repositório contém uma montagem de um semáforo utilizando LEDs em uma protoboard, incluindo a programação que controla o acendimento e apagamento dos LEDs. 
 
 Abaixo, você encontrará:
-- Um breve relato sobre as conexões realizadas
+- Um breve relato de como a montagem foi feita
+- - Um breve relato de como a programação foi feita
 - Tabela com especificações dos componentes utilizados
 - Link para o vídeo demonstrando o funcionamento do semáforo
 - Resultados dos testes realizados, com os nomes completos dos avaliadores
@@ -20,6 +21,10 @@ A montagem foi realizada em uma protoboard, onde cada LED foi conectado a um res
 5. Conectar jumpers macho-fêmea entre as portas do Arduino e o polo positivo do Arduino.
 6. Programar o microcontrolador para acender e apagar os LEDs de acordo com o tempo de cada fase (verde, amarelo, vermelho), garantindo que o tempo esteja correto.
 7. Colocar os LEDs na figura de corte a laser.
+
+
+## Programação
+Este projeto é semelhante ao que já realizamos anteriormente, especialmente no que diz respeito ao controle de LEDs. Como já conhecemos o processo de ligar e desligar os LEDs, bastou revisitar os conceitos básicos aprendidos e aplicá-los de acordo com a nova proposta. Comecei a programação somente após montar o hardware, o que me permitiu saber previamente quais portas utilizaria para cada LED. Essa definição foi importante, pois cada LED precisa permanecer aceso por um tempo específico, o que é um critério relevante na avaliação. Após definir os LEDs como pinos atuadores (responsáveis por realizar ações no mundo físico com base em comandos digitais), integrei-os no código. Utilizei a função delay() para definir o tempo de cada fase, conforme orientação do professor Hayashi, que explicou que não teríamos problemas iniciais com essa abordagem.
 
 
 ## Código da programação do semáforo
