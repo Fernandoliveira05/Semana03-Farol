@@ -22,6 +22,9 @@ A montagem foi realizada em uma protoboard, onde cada LED foi conectado a um res
 7. Colocar os LEDs na figura de corte a laser.
 
 
+## Código da programação do semáforo
+Você pode encontrar o código da programação do semáforo neste mesmo repositório, no arquivo nomeado como 'farol.ino'.  
+
 
 ## Especificações dos Componentes Utilizados
 
