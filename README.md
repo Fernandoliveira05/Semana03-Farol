@@ -47,5 +47,5 @@ Abaixo, os resultados dos testes realizados para verificar a funcionalidade do s
 
 | Avaliador                  | Nota dos Testes | Motivo da Nota |
 |----------------------------|----------------------|----------------------|
-| Murilo Couto Oliveira | Sucesso/Erro        |     Sucesso/Erro        |
+| Murilo Couto Oliveira |     10    |     "O aluno montou corretamente o circuito, e estruturou de forma robusta o a lógica do algoritimo no Arduino IDE. Além disso, foi além construindo os Leds no modelo miniatura de farol entregue pelo professor Hayashi."       |
 | Larissa dos Santos Temoteo |  10   |  "Código bem estruturado, os fios estão organizados, dando para compreender. Além disso, seguem o tempo estipulado pela tarefa."        |
