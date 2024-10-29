@@ -48,7 +48,7 @@ Confira o vídeo de demonstração do funcionamento do semáforo: [[Link para o 
 ## Resultados dos Testes
 Abaixo, os resultados dos testes com outros colegas, realizados para verificar a funcionalidade do semáforo.
 
-| Avaliador                  | Nota dos Testes | Motivo da Nota |
+| Avaliador                  | Nota | Motivo da Nota |
 |----------------------------|----------------------|----------------------|
 | Murilo Couto Oliveira |     10    |     "O aluno montou corretamente o circuito, e estruturou de forma robusta o a lógica do algoritimo no Arduino IDE. Além disso, foi além construindo os Leds no modelo miniatura de farol entregue pelo professor Hayashi."       |
 | Larissa dos Santos Temoteo |  10   |  "Código bem estruturado, os fios estão organizados, dando para compreender. Além disso, seguem o tempo estipulado pela tarefa."        |
