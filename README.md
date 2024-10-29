@@ -2,7 +2,7 @@
 
 * Orientador: Victor Takashi Hayashi
 
-&nbsp;Este repositório contém uma montagem de um semáforo utilizando LEDs em uma protoboard, incluindo a programação que controla o acendimento e apagamento dos LEDs. 
+&nbsp;&nbsp;Este repositório contém uma montagem de um semáforo utilizando LEDs em uma protoboard, incluindo a programação que controla o acendimento e apagamento dos LEDs. 
 
 Abaixo, você encontrará:
 - Um breve relato sobre as conexões realizadas
@@ -48,4 +48,4 @@ Abaixo, os resultados dos testes realizados para verificar a funcionalidade do s
 | Avaliador                  | Nota dos Testes | Motivo da Nota |
 |----------------------------|----------------------|----------------------|
 | Murilo Couto Oliveira | Sucesso/Erro        |     Sucesso/Erro        |
-| Larissa dos Santos Temoteo |   10   |  Sucesso/Erro        |
+| Larissa dos Santos Temoteo |    <td align="center">10</td>   |  Sucesso/Erro        |
