@@ -46,7 +46,7 @@ Confira o vídeo de demonstração do funcionamento do semáforo: [[Link para o 
 
 
 ## Resultados dos Testes
-Abaixo, os resultados dos testes realizados para verificar a funcionalidade do semáforo, incluindo o tempo de cada fase.
+Abaixo, os resultados dos testes com outros colegas, realizados para verificar a funcionalidade do semáforo.
 
 | Avaliador                  | Nota dos Testes | Motivo da Nota |
 |----------------------------|----------------------|----------------------|
