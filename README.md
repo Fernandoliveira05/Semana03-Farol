@@ -36,8 +36,8 @@ Você pode encontrar o código da programação do semáforo neste mesmo reposit
 | LED Verde       | 5mm, 2V, 20mA                      | 1          |
 | Resistores      | 220Ω                               | 3          |
 | Placa de desenvolvimento (Autoestudo diz que esse é o nome)| Arduino Uno                        | 1          |
-| Fios Jumper     | masculino-masculino     | 3        |
-| Fios Jumper     | masculino-fêmea     | 6        |
+| Fios Jumper     | macho-masculino     | 3        |
+| Fios Jumper     | macho-fêmea     | 6        |
 
 
 
