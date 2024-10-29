@@ -39,7 +39,7 @@ A montagem foi realizada em uma protoboard, onde cada LED foi conectado a um res
 
 
 ## Demonstração
-Confira o vídeo de demonstração do funcionamento do semáforo: [[Link para o vídeo](https://drive.google.com/drive/folders/1a0dJrxijY6o_r1sBbGhSss7u4i5qY7j4?usp=drive_link)](#).
+Confira o vídeo de demonstração do funcionamento do semáforo: [[Link para o vídeo](https://drive.google.com/drive/folders/1a0dJrxijY6o_r1sBbGhSss7u4i5qY7j4?usp=drive_link)].
 
 
 ## Resultados dos Testes
