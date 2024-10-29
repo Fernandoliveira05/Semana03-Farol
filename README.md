@@ -48,4 +48,4 @@ Abaixo, os resultados dos testes realizados para verificar a funcionalidade do s
 | Avaliador                  | Nota dos Testes | Motivo da Nota |
 |----------------------------|----------------------|----------------------|
 | Murilo Couto Oliveira | Sucesso/Erro        |     Sucesso/Erro        |
-| Larissa dos Santos Temoteo |   10     |  Sucesso/Erro        |
+| Larissa dos Santos Temoteo |   10   |  Sucesso/Erro        |
